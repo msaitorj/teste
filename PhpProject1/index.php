@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "com o git funciona.";
-        echo "sem nenhum problema.";
+        echo "sem nenhum problema. muito bom.";
         ?>
     </body>
 </html>
